@@ -11,7 +11,9 @@ I like JavaScript, React, Node, Express
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuni-Q&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
-  ![Javscript Badge](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&link=http://yuni-q.github.io/)
+  
+  [![Javscript Badge](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&link=http://yuni-q.github.io/)]
+  
   <br />
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://yuni-q.github.io/)](http://yuni-q.github.io/) 
