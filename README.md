@@ -8,11 +8,11 @@ I like JavaScript, React, Node, Express
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuni-Q&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&hide_title=true&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuni-Q&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
-
+  ![Javscript Badge](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&link=http://yuni-q.github.io/)
+  <br />
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://yuni-q.github.io/)](http://yuni-q.github.io/) 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuni-q/)](https://www.linkedin.com/in/yuni-q/) 
