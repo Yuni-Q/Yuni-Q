@@ -46,9 +46,9 @@ I like JavaScript, React, Node, Express
 
   <br />
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000?style=flat-square&logo=github&link=http://yuni-q.github.io/)](http://yuni-q.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuni-q/)](https://www.linkedin.com/in/yuni-q/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyh6425@gmail.com)](mailto:lyh6425@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000?style=flat-square&logo=github&link=http://yuni-q.github.io/)](http://yuni-q.github.io/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuni-q/)](https://www.linkedin.com/in/yuni-q/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyh6425@gmail.com)](mailto:lyh6425@gmail.com)
 
   <!--
     [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6cioPayJA8oYqMFtbpvZzw?view_as=subscriber)](https://www.youtube.com/channel/UC6cioPayJA8oYqMFtbpvZzw?view_as=subscriber) 
@@ -57,13 +57,17 @@ I like JavaScript, React, Node, Express
     [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yuni__q)](https://twitter.com/yuni__q)
     
   -->
+  
+  <br />
+  
+  <!--
+    https://hits.seeyoufarm.com/
+  -->
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuni-Q)](https://hits.seeyoufarm.com)
+
 </div>
 
-<!--
-  https://hits.seeyoufarm.com/
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuni-Q)](https://hits.seeyoufarm.com)
 
 <!--
   **Yuni-Q/Yuni-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
