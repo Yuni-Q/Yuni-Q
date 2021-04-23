@@ -12,7 +12,7 @@ I like JavaScript, React, Node, Express
 
 <div align=center>
   
-  ![TypeScript Badge](http://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=http://yuni-q.github.io/)
+  ![TypeScript Badge](http://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&link=http://yuni-q.github.io/)
   ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript&link=http://yuni-q.github.io/)
   ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=http://yuni-q.github.io/)
   ![Redux Badge](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=http://yuni-q.github.io/)
