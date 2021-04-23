@@ -16,7 +16,9 @@ I like JavaScript, React, Node, Express
   ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript&link=http://yuni-q.github.io/)
   ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=http://yuni-q.github.io/)
   ![Redux Badge](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=http://yuni-q.github.io/)
+  ![Mobx Badge](https://img.shields.io/badge/-Mobx-000?style=flat-square&logo=mobx&link=http://yuni-q.github.io/)
   ![Next.js Badge](http://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&link=http://yuni-q.github.io/)
+  ![swr Badge](https://img.shields.io/badge/-swr-000?style=flat-square&logo=next.js&link=http://yuni-q.github.io/)
   ![Gatsby Badge](http://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&link=http://yuni-q.github.io/)
   ![Webpack Badge](http://img.shields.io/badge/-Webpack-000?style=flat-square&logo=webpack&link=http://yuni-q.github.io/)
   ![Babel Badge](http://img.shields.io/badge/-Babel-000?style=flat-square&logo=babel&link=http://yuni-q.github.io/)
@@ -38,9 +40,9 @@ I like JavaScript, React, Node, Express
   ![CSS3 Badge](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=http://yuni-q.github.io/)
   ![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-000?style=flat-square&logo=ubuntu&link=http://yuni-q.github.io/)
   ![Visual Studio Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&link=http://yuni-q.github.io/)
-  ![IntelliJ IDEA Badge](http://img.shields.io/badge/-IntelliJ%20IDEA%20AWS-000?style=flat-square&logo=intelliJ%20idea&link=http://yuni-q.github.io/)
+  ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intelliJ%20idea&link=http://yuni-q.github.io/)
   ![Google Chrome Badge](http://img.shields.io/badge/-Google%20Chrome-000?style=flat-square&logo=google%20chrome&link=http://yuni-q.github.io/)
-  ![Appel Badge](http://img.shields.io/badge/-Appel-000?style=flat-square&logo=apple&link=http://yuni-q.github.io/)
+  ![Apple Badge](http://img.shields.io/badge/-Appel-000?style=flat-square&logo=apple&link=http://yuni-q.github.io/)
   ![JSON WEB Tokens Badge](http://img.shields.io/badge/-JSON%20WEB%20Tokens-000?style=flat-square&logo=json%20web%20tokens&link=http://yuni-q.github.io/)
   <!-- ![App Store Badge](http://img.shields.io/badge/-App%20Store-000?style=flat-square&logo=app%20store&link=http://yuni-q.github.io/) -->
 
