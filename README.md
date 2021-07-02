@@ -2,7 +2,7 @@
 
 I like JavaScript, React, Node, Express
 
-[resume](https://yuni-q.github.io/about)
+<a href="https://yuni-q.github.io/about" target="_blank">resume</a>
 
 <!--
   https://github.com/anuraghazra/github-readme-stats
