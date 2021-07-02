@@ -2,6 +2,8 @@
 
 I like JavaScript, React, Node, Express
 
+[resume](https://yuni-q.github.io/about)
+
 <!--
   https://github.com/anuraghazra/github-readme-stats
 -->
