@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like JavaScript, React, Node, Express
+I like Typescript, React, Mobx, swr, Next, Nest and TypeORM
 
 <a href="https://yuni-q.github.io/about" target="_blank">resume</a>
 
