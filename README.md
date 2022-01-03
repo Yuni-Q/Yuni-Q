@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=200&text=Yuni-Q&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer&descAlign=70.&descAlignY=44)
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=170&section=header&text=Yuni-Q&fontColor=090707&fontAlignX=50&fontAlignY=50&fontSize=100&desc=Frontend%20Developer&descAlign=50.&descAlignY=85)
 
 ### Hi there 👋
