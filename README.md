@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=200&text=Yuni-Q&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=200&text=Yuni-Q&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend Developer&descAlign=70.&descAlignY=44)
 
 ### Hi there 👋
 
