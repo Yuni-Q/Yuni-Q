@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like Typescript, React, Mobx, swr, Next, Nest and TypeORM
+I like Typescript, React, Mobx, react-query, Next, Nest and TypeORM
 
 <a href="https://yuni-q.github.io/about" target="_blank">resume</a>
 
