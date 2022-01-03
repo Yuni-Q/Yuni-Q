@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=170&section=header&text=Yunu-Q&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=170&section=header&text=Yuni-Q&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 ### Hi there 👋
 
