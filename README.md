@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Yunu-Q;&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+
 ### Hi there 👋
 
 I like Typescript, React, Mobx, react-query, Next, Nest and TypeORM
@@ -8,7 +11,7 @@ I like Typescript, React, Mobx, react-query, Next, Nest and TypeORM
   https://github.com/anuraghazra/github-readme-stats
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuni-Q&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&hide_title=true&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuni-Q&show_icons=true&title_color=fff&bg_color=2AC1BC&icon_color=fff&hide_title=true&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuni-Q&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -87,3 +90,5 @@ I like Typescript, React, Mobx, react-query, Next, Nest and TypeORM
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=2AC1BC&height=100&section=footer)
